@@ -6,6 +6,7 @@ Company Name: Codtech IT Solutions
 ID: CT4AD4681
 Domain: Android Development
 Duration: July to August
+Mentor: Neela Santhosh kumar
 
 Project Description
 The News Reader App is a feature-rich application built using Flutter, designed to provide users with the latest news from around the world. This app focuses on delivering a seamless and intuitive user experience with a clean and attractive interface.
