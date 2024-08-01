@@ -37,6 +37,11 @@ The app uses a mock JSON file (assets/mock_news_data.json) for demonstration pur
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes relevant documentation and tests.
 
+![Screenshot (449)](https://github.com/user-attachments/assets/72ffc6f6-6106-46e5-9482-fd1cc2c2d61e)
+![Screenshot (450)](https://github.com/user-attachments/assets/672f524c-06a1-4449-9fdc-bb35a7ae301f)
+
+
+
 
 
 
